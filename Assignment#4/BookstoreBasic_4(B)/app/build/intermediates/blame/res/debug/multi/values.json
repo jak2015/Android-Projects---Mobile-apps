@@ -1,0 +1,122 @@
+[
+    {
+        "outputFile": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 48,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 35,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 47,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 41,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 230,
+                    "endColumn": 45,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 41,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 57,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 39,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 416,
+                    "endColumn": 41,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]

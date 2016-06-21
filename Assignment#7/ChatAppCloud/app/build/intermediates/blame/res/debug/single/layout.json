@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#7\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_head.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#7\\ChatAppCloud\\app\\src\\main\\res\\layout\\activity_set_head.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#7\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_list.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#7\\ChatAppCloud\\app\\src\\main\\res\\layout\\detail_list.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#7\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#7\\ChatAppCloud\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#7\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\peerlist.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#7\\ChatAppCloud\\app\\src\\main\\res\\layout\\peerlist.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#7\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_peers.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#7\\ChatAppCloud\\app\\src\\main\\res\\layout\\activity_peers.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#7\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#7\\ChatAppCloud\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

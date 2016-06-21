@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Saurabh%20B/AndroidStudioProjects/MultiPaneChatRoom1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Multipane Chat App</string>
+    <string name="app_port">8080</string>
+    <string name="destination_host">Destination Host</string>
+    <string name="destination_host_default">10.0.0.6</string>
+    <string name="destination_port">Destination Port</string>
+    <string name="destination_port_default">8080</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_msg">Send Message</string>
+    <string name="menu_show_peers">SHOW PEERS</string>
+    <string name="message_edit_text">Enter your message:</string>
+    <string name="name_TxtView">Enter your name:</string>
+    <string name="name_btn">Login</string>
+    <string name="next_label">NEXT</string>
+    <string name="send_label">SEND</string>
+    <string name="target_host_default">10.0.0.6</string>
+    <string name="target_port_default">8080</string>
+    <string name="title_activity_chat_client">ChatClient</string>
+    <string name="title_activity_peers">Peers List</string>
+    <string name="title_activity_set_head">MULTIPANE CHAT ROOM</string>
+    <string name="user_name">Client</string>
+</resources>

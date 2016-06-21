@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WIFI
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:12:5-63
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:12:22-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:13:22-78
+application
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:15:5-50:19
+	android:label
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:16:9-36
+	android:icon
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:17:9-45
+activity#edu.stevens.cs522.chatappcloud.EntryActivity
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:20:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:25:27-74
+activity#edu.stevens.cs522.chatappcloud.PeersActivity
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:30:13-57
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:29:13-72
+activity#edu.stevens.cs522.chatappcloud.ChatApp
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:34:13-63
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:33:13-66
+provider#edu.stevens.cs522.providers.MessageProviderCloud
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:37:9-40:40
+	android:authorities
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:39:13-47
+	android:exported
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:38:13-76
+service#edu.stevens.cs522.service.RequestService
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:42:9-48:19
+	android:exported
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:43:13-68
+intent-filter#edu.stevens.cs522.chatappcloud.register
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:45:13-47:29
+action#edu.stevens.cs522.chatappcloud.register
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:46:17-82
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:46:25-79
+receiver#edu.stevens.cs522.service.AlarmReceiver
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:49:9-75
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#6\ChatAppCloud\app\src\main\AndroidManifest.xml:49:19-73

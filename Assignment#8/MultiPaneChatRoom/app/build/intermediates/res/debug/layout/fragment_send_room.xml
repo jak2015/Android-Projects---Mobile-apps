@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/add_room"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/lbl_chatroom_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chat Room" />
+
+    <EditText
+        android:id="@+id/txt_chatroom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:imeOptions="actionDone"
+        android:inputType="text" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/addroombtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add Room" />
+
+        <Button
+            android:id="@+id/cancelroombtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel" />
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/C:/Users/Saurabh%20B/AndroidStudioProjects/MultiPaneChatRoom1/app/src/main/res/layout/fragment_send_room.xml -->

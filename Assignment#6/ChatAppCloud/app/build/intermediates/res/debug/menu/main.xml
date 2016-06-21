@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/show_peers"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_show_peers"/>
+    <item
+        android:id="@+id/show_settings"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_settings"/>
+
+</menu><!-- From: file:/C:/Users/$!D/Desktop/Assignment%206/ChatAppCloud/app/src/main/res/menu/main.xml -->

@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:3:7
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:7
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:7
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+application
+ADDED from AndroidManifest.xml:6:5
+	android:label
+		ADDED from AndroidManifest.xml:6:48
+	android:icon
+		ADDED from AndroidManifest.xml:6:18
+activity#edu.stevens.cs522.bookstore.activities.BookStoreActivity
+ADDED from AndroidManifest.xml:8:9
+	android:label
+		ADDED from AndroidManifest.xml:9:19
+	android:name
+		ADDED from AndroidManifest.xml:8:19
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:10:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:11:17
+	android:name
+		ADDED from AndroidManifest.xml:11:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:12:17
+	android:name
+		ADDED from AndroidManifest.xml:12:27
+activity#edu.stevens.cs522.bookstore.activities.AddBookActivity
+ADDED from AndroidManifest.xml:15:9
+	android:label
+		ADDED from AndroidManifest.xml:15:19
+	android:name
+		ADDED from AndroidManifest.xml:16:10
+activity#edu.stevens.cs522.bookstore.activities.CheckoutActivity
+ADDED from AndroidManifest.xml:18:3
+	android:label
+		ADDED from AndroidManifest.xml:18:13
+	android:name
+		ADDED from AndroidManifest.xml:19:10
+activity#edu.stevens.cs522.bookstore.activities.ViewBook
+ADDED from AndroidManifest.xml:21:9
+	android:label
+		ADDED from AndroidManifest.xml:21:19
+	android:name
+		ADDED from AndroidManifest.xml:22:13
+provider#provider.BookProvider
+ADDED from AndroidManifest.xml:24:9
+	android:authorities
+		ADDED from AndroidManifest.xml:25:13
+	android:exported
+		ADDED from AndroidManifest.xml:27:13
+	android:name
+		ADDED from AndroidManifest.xml:26:13
+uses-sdk
+INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0

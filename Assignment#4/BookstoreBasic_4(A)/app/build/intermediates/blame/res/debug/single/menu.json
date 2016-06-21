@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail_menu.xml",
+        "source": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\src\\main\\res\\menu\\detail_menu.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_book_menu.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\src\\main\\res\\menu\\add_book_menu.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bookstore_menu.xml",
+        "source": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\src\\main\\res\\menu\\bookstore_menu.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\build\\intermediates\\res\\merged\\debug\\menu\\checkout_menu.xml",
+        "source": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\src\\main\\res\\menu\\checkout_menu.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cabmenu.xml",
+        "source": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\src\\main\\res\\menu\\cabmenu.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail_menu.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\src\\main\\res\\menu\\detail_menu.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_del.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\src\\main\\res\\menu\\menu_del.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search_menu.xml",
+        "source": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\src\\main\\res\\menu\\search_menu.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\checkout_menu.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\src\\main\\res\\menu\\checkout_menu.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bookstore_menu.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\src\\main\\res\\menu\\bookstore_menu.xml"
+    }
+]

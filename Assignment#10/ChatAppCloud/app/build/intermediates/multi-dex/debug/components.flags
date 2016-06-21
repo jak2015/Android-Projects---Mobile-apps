@@ -1,0 +1,50 @@
+-injars 'E:\MS_CS_Sem2\CS522\Assignment#10\ChatAppCloud\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'E:\MS_CS_Sem2\CS522\Assignment#10\ChatAppCloud\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Jayshree\AppData\Local\Android\sdk\build-tools\23.0.0\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration 'E:\MS_CS_Sem2\CS522\Assignment#10\ChatAppCloud\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class edu.stevens.cs522.activities.startActivity {
+    <init>();
+}
+
+-keep class edu.stevens.cs522.activities.PeersActivity {
+    <init>();
+}
+
+-keep class edu.stevens.cs522.activities.ChatApp {
+    <init>();
+}
+
+-keep class edu.stevens.cs522.providers.CloudProvider {
+    <init>();
+}
+
+-keep class edu.stevens.cs522.services.RequestService {
+    <init>();
+}
+
+-keep class edu.stevens.cs522.services.AlarmReceiver {
+    <init>();
+}
+
+-keep class edu.stevens.cs522.services.LocationService {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

@@ -1,0 +1,13 @@
+-keep class edu.stevens.cs522.activities.startActivity { <init>(); }
+-keep class edu.stevens.cs522.activities.PeersActivity { <init>(); }
+-keep class edu.stevens.cs522.activities.ChatApp { <init>(); }
+-keep class edu.stevens.cs522.providers.CloudProvider { <init>(); }
+-keep class edu.stevens.cs522.services.RequestService { <init>(); }
+-keep class edu.stevens.cs522.services.AlarmReceiver { <init>(); }
+-keep class edu.stevens.cs522.services.LocationService { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

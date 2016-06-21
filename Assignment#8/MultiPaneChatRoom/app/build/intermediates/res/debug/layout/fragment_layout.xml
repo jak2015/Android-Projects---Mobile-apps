@@ -1,0 +1,6 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <fragment class="edu.stevens.cs522.multipane.activity.FragmentLayout$TitlesFragment"
+            android:id="@+id/titles"
+            android:layout_width="match_parent" android:layout_height="match_parent" />
+</FrameLayout><!-- From: file:/C:/Users/Saurabh%20B/AndroidStudioProjects/MultiPaneChatRoom1/app/src/main/res/layout/fragment_layout.xml -->

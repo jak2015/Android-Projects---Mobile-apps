@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Saurabh%20B/Desktop/Saurabh_Bagde/Assignment%204(C)/Chat-Server/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Chat Server</string>
+    <string name="app_port">6666</string>
+    <string name="cancel">CANCEL</string>
+    <string name="destination_host">Destination Host</string>
+    <string name="destination_port">Destination Port</string>
+    <string name="empty_message">MESSAGE EMPTY</string>
+    <string name="empty_peer">THE PEER IS EMPTY</string>
+    <string name="latitude">40.744906</string>
+    <string name="longitude">-74.023937</string>
+    <string name="menu_show_peers">SHOW PEERS</string>
+    <string name="message_edit_text">Type your message here.</string>
+    <string name="next_label">NEXT</string>
+    <string name="peer_detail">DETAIL</string>
+    <string name="peers">SHOW PEERS</string>
+    <string name="send_label">SEND</string>
+    <string name="target_host_default">10.0.2.2</string>
+    <string name="target_port_default">6666</string>
+    <string name="user_name">Client</string>
+</resources>

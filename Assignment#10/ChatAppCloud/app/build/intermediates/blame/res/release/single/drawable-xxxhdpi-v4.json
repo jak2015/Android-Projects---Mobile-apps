@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\places_ic_search.png",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\places_ic_clear.png",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_light.png"
+    }
+]

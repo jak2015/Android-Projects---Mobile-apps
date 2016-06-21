@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_peers.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\src\\main\\res\\layout\\activity_peers.xml"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_layout.xml",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\src\\main\\res\\layout\\list_layout.xml"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_peers.xml",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\src\\main\\res\\layout\\activity_peers.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_layout.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\src\\main\\res\\layout\\list_layout.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#10\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    }
+]

@@ -1,0 +1,2 @@
+C:\Users\Saurabh B\AndroidStudioProjects\MultiPaneChatRoom1\app\build\intermediates\classes\debug
+C:\Users\Saurabh B\AndroidStudioProjects\MultiPaneChatRoom1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-0b1e4853b8e74e833e8dacb09588261ace9d9a14.jar

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Capture</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="pause">Pause</string>
+    <string name="capture">Capture</string>
+
+    <!-- Inherited from JXing, to be replaced -->
+    <string name="msg_default_format"></string>
+    <string name="msg_default_time"></string>
+    <string name="msg_default_type"></string>
+    <string name="msg_default_meta"></string>
+    <string name="msg_default_status"></string>
+</resources>

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_layout.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\src\\main\\res\\layout\\list_layout.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "D:\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "D:\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "D:\\ChatAppCloud\\ChatAppCloud\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "D:\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\ChatAppCloud\\ChatAppCloud\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_peers.xml",
+        "source": "D:\\ChatAppCloud\\ChatAppCloud\\app\\src\\main\\res\\layout\\activity_peers.xml"
+    },
+    {
+        "merged": "D:\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_layout.xml",
+        "source": "D:\\ChatAppCloud\\ChatAppCloud\\app\\src\\main\\res\\layout\\list_layout.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_peers.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\src\\main\\res\\layout\\activity_peers.xml"
+    },
+    {
+        "merged": "D:\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "D:\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "D:\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#9\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "D:\\ChatAppCloud\\ChatAppCloud\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\Chat App_4(C)\\Chat-Server\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat_server_menu.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\Chat App_4(C)\\Chat-Server\\app\\src\\main\\res\\menu\\chat_server_menu.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\Chat App_4(C)\\Chat-Server\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat_peer_list_menu.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\Chat App_4(C)\\Chat-Server\\app\\src\\main\\res\\menu\\chat_peer_list_menu.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\Chat App_4(C)\\Chat-Server\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat_peer_detail_menu.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\Chat App_4(C)\\Chat-Server\\app\\src\\main\\res\\menu\\chat_peer_detail_menu.xml"
+    }
+]

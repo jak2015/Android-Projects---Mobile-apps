@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/action_peers"
+          android:title="@string/menu_show_peers"
+          android:showAsAction="never" />
+</menu><!-- From: file:/C:/Users/Saurabh%20B/AndroidStudioProjects/MultiPaneChatRoom1/app/src/main/res/menu/main_activity_actions.xml -->

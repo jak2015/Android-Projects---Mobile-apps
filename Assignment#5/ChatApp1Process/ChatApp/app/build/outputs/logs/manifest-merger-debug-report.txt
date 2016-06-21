@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WIFI
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:12:5-63
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:12:22-60
+application
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:14:5-62:19
+	android:label
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:15:9-36
+	android:icon
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:16:9-45
+activity#edu.stevens.cs522.chat.oneway.Login
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:19:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:24:27-74
+activity#edu.stevens.cs522.chat.oneway.PeerList
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:27:9-30:20
+	android:label
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:28:13-66
+activity#edu.stevens.cs522.chat.oneway.MessageList
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:31:9-34:20
+	android:label
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:33:13-64
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:32:13-69
+activity#edu.stevens.cs522.chat.oneway.ChatApp
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:35:9-38:20
+	android:label
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:37:13-59
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:36:13-65
+provider#provider.ChatProvider
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:40:9-45:20
+	android:authorities
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:42:13-39
+	android:enabled
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:41:13-49
+service#service.ChatReceiverService
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:47:9-51:19
+	android:enabled
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:50:13-36
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:48:13-55
+service#service.ChatSendService
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:52:9-56:19
+	android:enabled
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:54:13-35
+	android:exported
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:55:13-36
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:53:13-51
+service#service.IChatSendService
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:57:9-61:19
+	android:enabled
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:59:13-35
+	android:exported
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:60:13-36
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#5\ChatApp1Process\ChatApp\app\src\main\AndroidManifest.xml:58:13-52

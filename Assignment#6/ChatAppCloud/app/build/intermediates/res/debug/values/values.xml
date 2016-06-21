@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/$!D/Desktop/Assignment%206/ChatAppCloud/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/$!D/Desktop/Assignment%206/ChatAppCloud/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Chat Server</string>
+    <string name="app_port">8080</string>
+    <string name="destination_host">Destination Host</string>
+    <string name="destination_host_default">10.0.0.9</string>
+    <string name="destination_port">Destination Port</string>
+    <string name="destination_port_default">8080</string>
+    <string name="empty_message">Message Empty</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="latitude">78.7639505</string>
+    <string name="longitude">-54.023937</string>
+    <string name="menu_show_peers">PeerS</string>
+    <string name="message_edit_text">Type your message here.</string>
+    <string name="name_TxtView">Please Enter your name</string>
+    <string name="name_btn">Login</string>
+    <string name="next_label">Next</string>
+    <string name="send_label">Send</string>
+    <string name="target_host_default">10.0.0.9</string>
+    <string name="target_port_default">8080</string>
+    <string name="title_activity_chat_client">ChatApp</string>
+    <string name="title_activity_peers">Peers List</string>
+    <string name="title_activity_set_head">ChatApp with Services</string>
+    <string name="user_name">Client</string>
+</resources>

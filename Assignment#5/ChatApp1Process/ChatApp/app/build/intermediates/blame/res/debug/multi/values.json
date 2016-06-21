@@ -1,0 +1,810 @@
+[
+    {
+        "outputFile": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 52,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 56,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 41,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 41,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 61,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 61,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 61,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 61,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 52,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 52,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 46,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 46,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 48,
+                    "endOffset": 589
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 48,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 594,
+                    "endColumn": 54,
+                    "endOffset": 644
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 54,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 649,
+                    "endColumn": 69,
+                    "endOffset": 714
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 570,
+                        "endColumn": 69,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 719,
+                    "endColumn": 43,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 43,
+                        "endOffset": 764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 39,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 5,
+                        "startOffset": 685,
+                        "endColumn": 40,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endColumn": 43,
+                    "endOffset": 842
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 43,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 847,
+                    "endColumn": 56,
+                    "endOffset": 899
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 56,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 904,
+                    "endColumn": 52,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 52,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 59,
+                    "endOffset": 1012
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 59,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1017,
+                    "endColumn": 68,
+                    "endOffset": 1081
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 68,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1086,
+                    "endColumn": 62,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 62,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 44,
+                    "endOffset": 1189
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 5\\Saurabh_Bagde\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 44,
+                        "endOffset": 153
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 52,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 56,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 41,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 41,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 61,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 61,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 61,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 61,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 52,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 52,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 46,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 46,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 48,
+                    "endOffset": 589
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 48,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 594,
+                    "endColumn": 54,
+                    "endOffset": 644
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 54,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 649,
+                    "endColumn": 69,
+                    "endOffset": 714
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 570,
+                        "endColumn": 69,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 719,
+                    "endColumn": 43,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 43,
+                        "endOffset": 764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 39,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 5,
+                        "startOffset": 685,
+                        "endColumn": 40,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endColumn": 43,
+                    "endOffset": 842
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 43,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 847,
+                    "endColumn": 56,
+                    "endOffset": 899
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 56,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 904,
+                    "endColumn": 52,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 52,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 59,
+                    "endOffset": 1012
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 59,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1017,
+                    "endColumn": 68,
+                    "endOffset": 1081
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 68,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1086,
+                    "endColumn": 62,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 62,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 44,
+                    "endOffset": 1189
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#5\\ChatApp1Process\\ChatApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 44,
+                        "endOffset": 153
+                    }
+                }
+            }
+        ]
+    }
+]

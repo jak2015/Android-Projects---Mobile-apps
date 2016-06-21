@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  Destination Host"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/destination_host"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:text="10.0.2.2" >
+
+            <requestFocus />
+        </EditText>
+
+    </LinearLayout>
+
+ 	 <LinearLayout
+ 	     android:layout_width="match_parent"
+ 	     android:layout_height="wrap_content" >
+
+ 	     <TextView
+ 	         android:id="@+id/textView2"
+ 	         android:layout_width="wrap_content"
+ 	         android:layout_height="wrap_content"
+ 	         android:text="  Destination Port"
+ 	         android:textAppearance="?android:attr/textAppearanceMedium" />
+
+ 	     <EditText
+ 	         android:id="@+id/destination_port"
+ 	         android:layout_width="wrap_content"
+ 	         android:layout_height="wrap_content"
+ 	         android:layout_weight="1"
+ 	         android:ems="10"
+ 	         android:text="6667" />
+
+    </LinearLayout>
+    
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+          >
+
+         <EditText
+             android:id="@+id/message_text"
+             android:layout_width="wrap_content"
+             android:layout_height="fill_parent"
+             android:layout_weight="1"
+             android:ems="10"/>
+
+         <Button
+             android:id="@+id/button1"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_weight="0"
+             android:text="send" 
+             android:onClick="send"/>
+     </LinearLayout>
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="fill_parent"
+          >
+	<ListView
+        android:id="@android:id/list"
+        android:layout_width="fill_parent"
+         android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:stackFromBottom="true"
+        android:transcriptMode="alwaysScroll" >
+    </ListView>
+    
+</LinearLayout>
+   
+
+</LinearLayout><!-- From: file:/C:/Users/Saurabh%20B/ChatApp/app/src/main/res/layout/main.xml -->

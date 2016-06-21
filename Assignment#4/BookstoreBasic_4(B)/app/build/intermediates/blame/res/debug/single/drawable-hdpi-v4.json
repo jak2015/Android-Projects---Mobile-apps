@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_icon.png",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\src\\main\\res\\drawable-hdpi\\search_icon.png"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkout_icon.png",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\src\\main\\res\\drawable-hdpi\\checkout_icon.png"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_clear_playlist.png",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_clear_playlist.png"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_delete.png",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_btn_add.png",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_btn_add.png"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\close_icon.png",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\src\\main\\res\\drawable-hdpi\\close_icon.png"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shop_cart_icon.png",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(B)\\app\\src\\main\\res\\drawable-hdpi\\shop_cart_icon.png"
+    }
+]

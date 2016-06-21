@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/order"
+        android:showAsAction="always"
+        android:title="@string/order"/>
+    <item
+        android:id="@+id/cancel"
+        android:showAsAction="always"
+        android:title="@string/cancel"/>
+</menu><!-- From: file:/C:/Users/Saurabh%20B/AndroidStudioProjects/BookstoreBasic/app/src/main/res/menu/checkout_menu.xml -->

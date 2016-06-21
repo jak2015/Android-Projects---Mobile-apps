@@ -1,0 +1,1453 @@
+[
+    {
+        "outputFile": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Assignment 2\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Assignment 2\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 41,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Assignment 2\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 41,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 61,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Assignment 2\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 61,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 61,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Assignment 2\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 61,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 61,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Assignment 2\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 418,
+                        "endColumn": 61,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 57,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Assignment 2\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 57,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 46,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Assignment 2\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 46,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 48,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Assignment 2\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 48,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 69,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Assignment 2\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 538,
+                        "endColumn": 69,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 564,
+                    "endColumn": 43,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Assignment 2\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 43,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 43,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Assignment 2\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 43,
+                        "endOffset": 647
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 41,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 41,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 61,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 61,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 61,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 61,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 61,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 418,
+                        "endColumn": 61,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 57,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 57,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 46,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 46,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 48,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 48,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 69,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 538,
+                        "endColumn": 69,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 564,
+                    "endColumn": 43,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 43,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 43,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 2\\Chat application\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 43,
+                        "endOffset": 647
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\dduggan\\Documents\\Teach\\CS522\\Classes\\2016-Spring\\Assignments\\Assignment2-Code\\Chat-Client-Oneway\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "C:\\Users\\dduggan\\Documents\\Teach\\CS522\\Classes\\2016-Spring\\Assignments\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 41,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "C:\\Users\\dduggan\\Documents\\Teach\\CS522\\Classes\\2016-Spring\\Assignments\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 41,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 61,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "C:\\Users\\dduggan\\Documents\\Teach\\CS522\\Classes\\2016-Spring\\Assignments\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 61,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 61,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "C:\\Users\\dduggan\\Documents\\Teach\\CS522\\Classes\\2016-Spring\\Assignments\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 61,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 61,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "C:\\Users\\dduggan\\Documents\\Teach\\CS522\\Classes\\2016-Spring\\Assignments\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 418,
+                        "endColumn": 61,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 57,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "C:\\Users\\dduggan\\Documents\\Teach\\CS522\\Classes\\2016-Spring\\Assignments\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 57,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 46,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "C:\\Users\\dduggan\\Documents\\Teach\\CS522\\Classes\\2016-Spring\\Assignments\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 46,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 48,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "C:\\Users\\dduggan\\Documents\\Teach\\CS522\\Classes\\2016-Spring\\Assignments\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 48,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 69,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "C:\\Users\\dduggan\\Documents\\Teach\\CS522\\Classes\\2016-Spring\\Assignments\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 538,
+                        "endColumn": 69,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 564,
+                    "endColumn": 43,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "C:\\Users\\dduggan\\Documents\\Teach\\CS522\\Classes\\2016-Spring\\Assignments\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 43,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 43,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "C:\\Users\\dduggan\\Documents\\Teach\\CS522\\Classes\\2016-Spring\\Assignments\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 43,
+                        "endOffset": 647
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\MS_CS_Sem2\\CS 522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "D:\\MS_CS_Sem2\\CS 522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 41,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "D:\\MS_CS_Sem2\\CS 522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 61,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "D:\\MS_CS_Sem2\\CS 522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 61,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "D:\\MS_CS_Sem2\\CS 522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 61,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "D:\\MS_CS_Sem2\\CS 522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 57,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "D:\\MS_CS_Sem2\\CS 522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 59,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "D:\\MS_CS_Sem2\\CS 522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 761,
+                        "endColumn": 59,
+                        "endOffset": 816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 46,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "D:\\MS_CS_Sem2\\CS 522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endColumn": 48,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "D:\\MS_CS_Sem2\\CS 522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 69,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "D:\\MS_CS_Sem2\\CS 522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 43,
+                    "endOffset": 663
+                },
+                "from": {
+                    "file": "D:\\MS_CS_Sem2\\CS 522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 668,
+                    "endColumn": 43,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "D:\\MS_CS_Sem2\\CS 522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 64,
+                    "endOffset": 772
+                },
+                "from": {
+                    "file": "D:\\MS_CS_Sem2\\CS 522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 696,
+                        "endColumn": 64,
+                        "endOffset": 756
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\MS_CS_Sem2\\CS522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 41,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 41,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 61,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 61,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 61,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 61,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 61,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 418,
+                        "endColumn": 61,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 57,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 57,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 59,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 59,
+                        "endOffset": 817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 46,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 46,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endColumn": 48,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 48,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 69,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 538,
+                        "endColumn": 69,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 43,
+                    "endOffset": 663
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 43,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 668,
+                    "endColumn": 43,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 43,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 65,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 696,
+                        "endColumn": 65,
+                        "endOffset": 757
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Assignment#3\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "D:\\Assignment#3\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 41,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "D:\\Assignment#3\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 61,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "D:\\Assignment#3\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 61,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "D:\\Assignment#3\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 61,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "D:\\Assignment#3\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 57,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "D:\\Assignment#3\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 59,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "D:\\Assignment#3\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 46,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "D:\\Assignment#3\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endColumn": 48,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "D:\\Assignment#3\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 69,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "D:\\Assignment#3\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 43,
+                    "endOffset": 663
+                },
+                "from": {
+                    "file": "D:\\Assignment#3\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 668,
+                    "endColumn": 43,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "D:\\Assignment#3\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 65,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "D:\\Assignment#3\\Assignment#3\\Chat application\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 696,
+                        "endColumn": 65,
+                        "endOffset": 757
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\sanjana\\Downloads\\Assignment2-Code\\Assignment2-Code\\Chat-Client-Oneway\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "C:\\Users\\sanjana\\Downloads\\Assignment2-Code\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 41,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "C:\\Users\\sanjana\\Downloads\\Assignment2-Code\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 41,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 61,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "C:\\Users\\sanjana\\Downloads\\Assignment2-Code\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 61,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 61,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "C:\\Users\\sanjana\\Downloads\\Assignment2-Code\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 61,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 61,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "C:\\Users\\sanjana\\Downloads\\Assignment2-Code\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 418,
+                        "endColumn": 61,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 57,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "C:\\Users\\sanjana\\Downloads\\Assignment2-Code\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 57,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 46,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "C:\\Users\\sanjana\\Downloads\\Assignment2-Code\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 46,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 48,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "C:\\Users\\sanjana\\Downloads\\Assignment2-Code\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 48,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 69,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "C:\\Users\\sanjana\\Downloads\\Assignment2-Code\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 538,
+                        "endColumn": 69,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 564,
+                    "endColumn": 43,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "C:\\Users\\sanjana\\Downloads\\Assignment2-Code\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 43,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 43,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "C:\\Users\\sanjana\\Downloads\\Assignment2-Code\\Assignment2-Code\\Chat-Client-Oneway\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 43,
+                        "endOffset": 647
+                    }
+                }
+            }
+        ]
+    }
+]

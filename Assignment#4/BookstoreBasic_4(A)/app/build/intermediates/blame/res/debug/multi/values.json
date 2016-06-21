@@ -1,0 +1,298 @@
+[
+    {
+        "outputFile": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 48,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 35,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 47,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 41,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 230,
+                    "endColumn": 45,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 41,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 57,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 39,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 416,
+                    "endColumn": 41,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\CS522\\Assignment#4\\BookstoreBasic_4(A)\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 43,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 35,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 35,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endColumn": 47,
+                    "endOffset": 178
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 47,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 183,
+                    "endColumn": 41,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 41,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 45,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 45,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 41,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 41,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 57,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 57,
+                        "endOffset": 458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 39,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 39,
+                        "endOffset": 309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endColumn": 41,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "E:\\MS_CS_Sem2\\522 Assignments\\Assignment 4\\Saurabh_Bagde\\Assignment 4(A)\\BookstoreBasic\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 314,
+                        "endColumn": 41,
+                        "endOffset": 351
+                    }
+                }
+            }
+        ]
+    }
+]

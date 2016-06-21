@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/search_icon"
+        android:showAsAction="ifRoom"
+        android:title="@string/add"/>
+    <item
+        android:id="@+id/cancel"
+        android:icon="@drawable/close_icon"
+        android:showAsAction="ifRoom"
+        android:title="@string/delete"/>
+</menu>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IP address:" />
+
+    <TextView
+        android:id="@+id/ip_address"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Port number:" />
+
+    <TextView
+        android:id="@+id/port_number"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Messages:" />
+
+  <ListView
+    android:id="@id/android:list"
+    android:layout_width="fill_parent"
+    android:layout_height="0dip"
+    android:layout_weight="1"
+    android:transcriptMode="alwaysScroll"
+  />
+
+  <TextView
+    android:id="@id/android:empty"
+    android:layout_width="match_parent" 
+    android:layout_height="wrap_content"
+    android:text="@string/empty_message"
+  /> 
+
+</LinearLayout>

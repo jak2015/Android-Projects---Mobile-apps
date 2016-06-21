@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\release\\menu\\peers.xml",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\src\\main\\res\\menu\\peers.xml"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\release\\menu\\main_activity_actions.xml",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\src\\main\\res\\menu\\main_activity_actions.xml"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\release\\menu\\chat_client.xml",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\src\\main\\res\\menu\\chat_client.xml"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\release\\menu\\message_list.xml",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\src\\main\\res\\menu\\message_list.xml"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\release\\menu\\peer_list.xml",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\src\\main\\res\\menu\\peer_list.xml"
+    },
+    {
+        "merged": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\release\\menu\\settings.xml",
+        "source": "E:\\Course Material\\Semester Two\\CS-522 Mobile Development\\Assignment 9\\ChatAppCloud\\app\\src\\main\\res\\menu\\settings.xml"
+    }
+]

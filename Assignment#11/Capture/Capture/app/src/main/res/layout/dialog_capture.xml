@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <FrameLayout
+    	android:id="@+id/camera_preview"
+    	android:layout_width="wrap_content"
+    	android:layout_height="0dip"
+    	android:layout_gravity="center_horizontal"
+    	android:layout_weight="1" 
+    	android:visibility="invisible">
+
+<!--     <LinearLayout  -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="0dip" -->
+<!--         android:layout_gravity="center_horizontal" -->
+<!--         android:layout_weight="1" -->
+<!--         android:orientation="vertical"> -->
+
+        <SurfaceView
+            android:id="@+id/preview_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <edu.stevens.cs522.capture.client.ViewfinderView
+            android:id="@+id/viewfinder_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        
+<!--     </LinearLayout> -->
+
+	</FrameLayout>
+
+<!--     <ZoomControls -->
+<!--         android:id="@+id/camera_zoom_controls" -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:layout_gravity="center_horizontal" /> -->
+
+    <TextView
+        android:id="@+id/prompt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:paddingRight="@dimen/meta_textPadding"
+        android:textColor="@color/meta_textNormal"
+        android:textSize="@dimen/meta_textNormal" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="?android:attr/dividerVertical" />
+
+    <LinearLayout
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:measureWithLargestChild="true"
+        android:orientation="horizontal"
+        android:paddingLeft="2dip"
+        android:paddingRight="2dip"
+        android:paddingTop="0dip" >
+
+        <Button
+            android:id="@+id/capture"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/capture"
+            android:textColor="@color/meta_textNormal"
+            android:textSize="@dimen/meta_textNormal" />
+
+        <Button
+            android:id="@+id/pause"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/pause"
+            android:textColor="@color/meta_textNormal"
+            android:textSize="@dimen/meta_textNormal" />
+
+        <Button
+            android:id="@+id/cancel"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/cancel"
+            android:textColor="@color/meta_textNormal"
+            android:textSize="@dimen/meta_textNormal" />
+    </LinearLayout>
+
+</LinearLayout>

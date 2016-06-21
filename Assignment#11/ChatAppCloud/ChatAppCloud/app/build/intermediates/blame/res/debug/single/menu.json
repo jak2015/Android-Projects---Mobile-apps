@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_activity_actions.xml",
+        "source": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\src\\main\\res\\menu\\main_activity_actions.xml"
+    },
+    {
+        "merged": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\menu\\peers.xml",
+        "source": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\src\\main\\res\\menu\\peers.xml"
+    },
+    {
+        "merged": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings.xml",
+        "source": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat_client.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\src\\main\\res\\menu\\chat_client.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\menu\\peer_list.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\src\\main\\res\\menu\\peer_list.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\menu\\peers.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\src\\main\\res\\menu\\peers.xml"
+    },
+    {
+        "merged": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\menu\\message_list.xml",
+        "source": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\src\\main\\res\\menu\\message_list.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\menu\\message_list.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\src\\main\\res\\menu\\message_list.xml"
+    },
+    {
+        "merged": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\menu\\peer_list.xml",
+        "source": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\src\\main\\res\\menu\\peer_list.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_activity_actions.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\src\\main\\res\\menu\\main_activity_actions.xml"
+    },
+    {
+        "merged": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat_client.xml",
+        "source": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\src\\main\\res\\menu\\chat_client.xml"
+    }
+]

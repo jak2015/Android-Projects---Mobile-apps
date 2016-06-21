@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\Assignment 11\\Assignment11_Sanjana_CS522\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "E:\\MS_CS_Sem2\\CS522\\Assignment#11\\ChatAppCloud\\ChatAppCloud\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    }
+]

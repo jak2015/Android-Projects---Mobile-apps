@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Saurabh%20B/AndroidStudioProjects/BookstoreBasic/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Details">Details</string>
+    <string name="add">Add</string>
+    <string name="app_name">Book Store</string>
+    <string name="cancel">Cancel</string>
+    <string name="checkout">Checkout</string>
+    <string name="delete">Delete</string>
+    <string name="empty_cart">THE CART IS EMPTY!</string>
+    <string name="order">Order</string>
+    <string name="search">Search</string>
+</resources>

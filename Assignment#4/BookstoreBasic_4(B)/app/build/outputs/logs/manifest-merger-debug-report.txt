@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:3:7-44
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:5:7-34
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:6:5-28:19
+	android:label
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:6:48-80
+	android:icon
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:6:18-47
+activity#edu.stevens.cs522.bookstore.activities.BookStoreActivity
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:8:9-14:20
+	android:label
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:9:19-51
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:8:19-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:12:27-74
+activity#edu.stevens.cs522.bookstore.activities.AddBookActivity
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:15:9-17:14
+	android:label
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:15:19-46
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:16:10-52
+activity#edu.stevens.cs522.bookstore.activities.CheckoutActivity
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:18:3-20:14
+	android:label
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:19:10-53
+activity#edu.stevens.cs522.bookstore.activities.ViewBook
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:21:9-23:20
+	android:label
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:21:19-50
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:22:13-48
+provider#provider.BookProvider
+ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:24:9-27:41
+	android:authorities
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:25:13-62
+	android:exported
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:27:13-39
+	android:name
+		ADDED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml:26:13-49
+uses-sdk
+INJECTED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MS_CS_Sem2\CS522\Assignment#4\BookstoreBasic_4(B)\app\src\main\AndroidManifest.xml

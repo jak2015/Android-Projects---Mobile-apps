@@ -1,0 +1,27 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.stevens.cs522.capture">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera.any" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".client.CaptureActivity"
+            android:label="@string/app_name"
+            android:exported="true"
+            android:theme="@style/CaptureTheme"
+            android:noHistory="true"
+            android:excludeFromRecents="true"
+            android:windowSoftInputMode="adjustResize" />
+
+    </application>
+
+</manifest>
